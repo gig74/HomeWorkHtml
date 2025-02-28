@@ -24,7 +24,7 @@
 .myh1 {text-align: center; font-size:200%; }
 
 .form-style-4{
-	width: 450px;
+	width: 30%;
 	font-size: 16px;
 	background: #495C70;
 	padding: 30px 30px 15px 30px;
@@ -49,7 +49,7 @@
 .form-style-4 label > span{
 	display: inline-block;
 	float: left;
-	width: 150px;
+	width: 25%;
 }
 .form-style-4 input[type=text],
 .form-style-4 input[type=email] 
@@ -57,7 +57,7 @@
 	background: transparent;
 	border: none;
 	border-bottom: 1px dashed #83A4C5;
-	width: 275px;
+	width: 75%;
 	outline: none;
 	padding: 0px 0px 0px 0px;
 	font-style: italic;
@@ -69,7 +69,7 @@
 	outline: none;
 	border: none;
 	border-bottom: 1px dashed #83A4C5;
-	width: 275px;
+	width: 75%;
 	overflow: hidden;
 	resize:none;
 	height:20px;
@@ -85,17 +85,16 @@
 
 .form-style-4 input[type=submit],
 .form-style-4 input[type=button]{
-	background: #576E86;
+	background: #516E8C;
 	border: none;
 	padding: 8px 10px 8px 10px;
 	border-radius: 5px;
-	color: #A8BACE;
+	color: #E5EAEF;
 }
 .form-style-4 input[type=submit]:hover,
 .form-style-4 input[type=button]:hover{
-background: #394D61;
+background: #293239;
 }
 input[type="submit"]:active {
     color: #94FF1B;
-}
 }
